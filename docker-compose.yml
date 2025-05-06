@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  tomcat:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./target/ROOT.war:/usr/local/tomcat/webapps/ROOT.war
