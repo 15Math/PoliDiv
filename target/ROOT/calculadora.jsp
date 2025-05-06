@@ -249,8 +249,7 @@
     </main>
 
     <footer class="text-center text-sm text-white/70 mt-12 animate-fadeIn">
-    <p>© 2025 Divisão de Polinômios | Matéria: Programação Orientada a Objetos Avançada</p>
-	<p>Desenvolvido por: Filipe Magalhães, Matheus Barros, Camilly dos Santos</p>
-</footer>
+        <p>© 2023 Divisão de Polinômios | Álgebra Linear</p>
+    </footer>
 </body>
 </html>
