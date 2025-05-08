@@ -13,8 +13,8 @@ O POLIDIV é uma aplicação web desenvolvida em JSP (JavaServer Pages) para rea
 
 ## 👥 Autores
 
-- **Filipe Magalhães** - [@filipemagalhaes](https://github.com/fipdev2)
-- **Matheus Barros** - [@matheusbarros](https://github.com/15Math)
+- **Filipe Magalhães** - [@fipdev2](https://github.com/fipdev2)
+- **Matheus Barros** - [@15Math](https://github.com/15Math)
 - **Camilly dos Santos** - [@camillyds](https://github.com/#)
 
 ## 🏫 Disciplina
