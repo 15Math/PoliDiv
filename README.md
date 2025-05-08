@@ -19,7 +19,7 @@ O POLIDIV é uma aplicação web desenvolvida em JSP (JavaServer Pages) para rea
 
 ## 🏫 Disciplina
 
-Programação Orientada a Objetos Avançada - Professor: [Nome do Professor]
+Programação Orientada a Objetos Avançada - Professor: Miguel Carvalho
 
 ## ✨ Funcionalidades
 
