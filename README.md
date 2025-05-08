@@ -41,7 +41,7 @@ Programação Orientada a Objetos Avançada - Professor: Miguel Carvalho
 - Java JDK 8+
 - Apache Tomcat 9+
 - Maven
-- Docker (opcional)
+- Docker
 
 ### Instalação & execução:
 
